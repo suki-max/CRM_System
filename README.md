@@ -109,15 +109,6 @@ src/
 - PostgreSQL 16
 - IntelliJ IDEA (or other IDE)
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-    git clone https://github.com/nidabaser/CRM_Spring_Boot.git
-    ```
-    ```bash
-    cd crm-spring-boot
-    ```
 2. Configure the database.
    - Create a PostgreSQL database named `crm`. 
    - Update the `environment variables`:
@@ -146,6 +137,3 @@ src/
 - Commit your changes: `git commit -m 'Add some feature'`
 - Push to the branch: `git push origin feature/your-feature`
 - Open a pull request.
-
-### License
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
